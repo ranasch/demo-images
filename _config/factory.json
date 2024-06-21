@@ -1,7 +1,7 @@
 {
 	"$schema": "../_schemas/factory.schema.json",
 
-	"subscription": "a71067ce-fb2f-455b-9cd0-140f7ca06e48",
+	"subscription": "b8bd0f4f-a1e5-458c-b92c-24953bf736aa",
 	"region": "West Europe",
-	"identity": "/subscriptions/a71067ce-fb2f-455b-9cd0-140f7ca06e48/resourceGroups/ManagedImageCreation/providers/Microsoft.ManagedIdentity/userAssignedIdentities/DevBoxBuilder"
+	"identity": "/subscriptions/b8bd0f4f-a1e5-458c-b92c-24953bf736aa/resourceGroups/ManagedImageCreation/providers/Microsoft.ManagedIdentity/userAssignedIdentities/DevBoxBuilder"
 }
